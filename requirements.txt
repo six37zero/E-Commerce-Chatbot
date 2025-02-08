@@ -1,6 +1,7 @@
 langchain-astradb
 langchain 
 langchain-openai
+huggingface_hub  
 datasets
 pypdf
 python-dotenv
